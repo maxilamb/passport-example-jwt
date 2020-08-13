@@ -1,3 +1,7 @@
+#ignore ide files
+.vscode
+.idea
+
 # Logs
 logs
 *.log
